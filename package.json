@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon binarySearch.js"
+    "dev": "nodemon selectionSort.js"
   },
   "keywords": [],
   "author": "",
